@@ -1,0 +1,16 @@
+
+1 				num_basin_default_files
+../defs/stdbasin.def 		basin_default_file
+1 i				num_hillslope_default_files
+../defs/stdhill.def 		hillslope_default_file
+1 				num_zone_default_files
+../defs/zone.def 		zone_default_filename
+1 				num_soil_default_files
+../defs/soil_sandyloam.def 	soil_default_file
+1 				num_landuse_default_files
+../defs/lu_undev.def 		landuse_default_file
+2 				num_stratum_default_files
+../defs/veg_pine.def		stratum_default_file
+../defs/veg_grass.def		stratum_default_file
+1 				num_base_stations_files
+../clim/sagehen_base		climate_base_station_file
